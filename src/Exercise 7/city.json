@@ -1,0 +1,13 @@
+data = {
+    "city_name" : "San Jose Del Monte",
+    "city_random_id" : "SJDM_333",
+    "province_name" : "Bulacan",
+    "province_random_id" : "Bulacan_38",
+    "region_name" : "Central Luzon",
+    "region_name_id" : "central_luzon_3",
+    "city_population_2020" : 651813,
+    "city_current_mayor" : "Mayor Arthur Robes",
+    "estimated_area_km" : 106,
+    "city_point_coordinates" : [14.8139, 121.0453]
+
+}

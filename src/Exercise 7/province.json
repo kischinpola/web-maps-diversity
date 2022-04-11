@@ -1,0 +1,12 @@
+data = {
+    "province_name" : "Bulacan",
+    "province_random_id" : "Bulacan_38",
+    "region_name" : "central luzon",
+    "region_random_id" : "central_luzon_3",
+    "province_population" : 3708890,
+    "capital" : "Malolos",
+    "current_governor" : "Daniel R. Fernando", 
+    "estimated_area" : 2796,
+    "province_point_coordinates" : [15.03128966310956, 121.00931104435949]
+
+}

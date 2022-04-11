@@ -1,0 +1,8 @@
+data = {
+    "division_name" : "SQAD",
+    "division_random_id" : "SQAD_888",
+    "working_hours_range" : "9:00 am-5:00 pm",
+    "number_of_employees" : 20,
+    "office_address" : "PSA Complex, East Ave., Diliman, Quezon City",
+    "office_point_coordinates" : [14.639376, 121.045397]
+}
